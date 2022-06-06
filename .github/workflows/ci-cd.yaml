@@ -7,14 +7,14 @@ on:
 
 jobs:
   build:
-   runs-on: ubuntu-latest
-   steps:
-     - name: Check out Code
-       uses: actions/checkout@v2
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out Code
+        uses: actions/checkout@v2
 
-     - name: Setup .Net 5
-       uses: actions/Setup-dotnet@v2
-       with:
+      - name: Setup .Net 5
+        uses: actions/Setup-dotnet@v2
+        with:
           dotnet-version: '5.0.x'
       - name: Restore dependencies 
          run: dotnet restore
