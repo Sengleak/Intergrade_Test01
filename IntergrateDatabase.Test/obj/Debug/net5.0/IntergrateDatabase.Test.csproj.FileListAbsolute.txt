@@ -1,5 +1,0 @@
-/Users/sengleakkev/Documents/Nexvis/Intergrade_Test01/IntergrateDatabase.Test/obj/Debug/net5.0/IntergrateDatabase.Test.csproj.AssemblyReference.cache
-/Users/sengleakkev/Documents/Nexvis/Intergrade_Test01/IntergrateDatabase.Test/obj/Debug/net5.0/IntergrateDatabase.Test.GeneratedMSBuildEditorConfig.editorconfig
-/Users/sengleakkev/Documents/Nexvis/Intergrade_Test01/IntergrateDatabase.Test/obj/Debug/net5.0/IntergrateDatabase.Test.AssemblyInfoInputs.cache
-/Users/sengleakkev/Documents/Nexvis/Intergrade_Test01/IntergrateDatabase.Test/obj/Debug/net5.0/IntergrateDatabase.Test.AssemblyInfo.cs
-/Users/sengleakkev/Documents/Nexvis/Intergrade_Test01/IntergrateDatabase.Test/obj/Debug/net5.0/IntergrateDatabase.Test.csproj.CoreCompileInputs.cache

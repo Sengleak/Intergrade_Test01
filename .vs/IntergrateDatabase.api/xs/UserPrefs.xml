@@ -1,14 +1,23 @@
 ﻿<Properties StartupConfiguration="{BA36873B-B862-41B2-A87B-931AF33319C4}|Default">
   <MonoDevelop.Ide.ItemProperties.IntergrateDatabase.api PreferredExecutionTarget="/Applications/Brave Browser.app" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="IntergrateAndDeploy.Test/UnitTest1.cs">
+    <Files>
+      <File FileName="IntergrateAndDeploy.Test/UnitTest1.cs" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="IntergrateDatabase.api" expanded="True" />
+          <Node name="IntergrateDatabase.api" expanded="True">
+            <Node name="IntergrateAndDeploy.Test" expanded="True">
+              <Node name="Dependencies" selected="True" />
+            </Node>
+            <Node name="IntergrateDatabase.api" expanded="True" />
+          </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.IntergrateAndDeploy.Test FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

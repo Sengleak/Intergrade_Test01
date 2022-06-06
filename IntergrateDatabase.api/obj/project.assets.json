@@ -5772,7 +5772,7 @@
       "outputPath": "/Users/sengleakkev/Documents/Nexvis/Intergrade_Test01/IntergrateDatabase.api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/sengleakkev/.nuget/NuGet/NuGet.Config"
+        "/Users/sengleakkev/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"

@@ -56,7 +56,6 @@
 /Users/sengleakkev/Documents/Nexvis/Intergrade_Test01/IntergrateDatabase.api/bin/Debug/net5.0/appsettings.Development.json
 /Users/sengleakkev/Documents/Nexvis/Intergrade_Test01/IntergrateDatabase.api/bin/Debug/net5.0/Properties/launchSettings.json
 /Users/sengleakkev/Documents/Nexvis/Intergrade_Test01/IntergrateDatabase.api/bin/Debug/net5.0/appsettings.json
-/Users/sengleakkev/Documents/Nexvis/Intergrade_Test01/IntergrateDatabase.api/bin/Debug/net5.0/IntergrateDatabase.api
 /Users/sengleakkev/Documents/Nexvis/Intergrade_Test01/IntergrateDatabase.api/bin/Debug/net5.0/IntergrateDatabase.api.deps.json
 /Users/sengleakkev/Documents/Nexvis/Intergrade_Test01/IntergrateDatabase.api/bin/Debug/net5.0/IntergrateDatabase.api.runtimeconfig.json
 /Users/sengleakkev/Documents/Nexvis/Intergrade_Test01/IntergrateDatabase.api/bin/Debug/net5.0/IntergrateDatabase.api.runtimeconfig.dev.json
